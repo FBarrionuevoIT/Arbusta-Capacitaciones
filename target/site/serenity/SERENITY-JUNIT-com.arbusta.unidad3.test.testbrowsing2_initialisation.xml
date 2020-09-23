@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="com.arbusta.Unidad3.Test.TestBrowsing2" skipped="0" tests="1" time="0.0" timestamp="2020-09-23 11:54:18"><testcase classname="com.arbusta.Unidad3.Test.TestBrowsing2" name="Initialisation"><error message="@ManagedPages field must be of type Pages" type="net.thucydides.core.steps.InvalidManagedPagesFieldException">@ManagedPages field must be of type Pages</error><system-err>@ManagedPages field must be of type Pages&#13;
+org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:89)&#13;
+org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:41)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:541)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:763)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:463)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:209)&#13;
+</system-err></testcase></testsuite>

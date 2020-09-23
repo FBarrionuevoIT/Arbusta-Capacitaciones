@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="com.arbusta.Unidad3.Test.TestBrowsing2" skipped="0" tests="1" time="15.49" timestamp="2020-09-23 10:38:06"><testcase classname="com.arbusta.Unidad3.Test.TestBrowsing2" name="Should instantiate a web driver instance for a web test"><error message="Expected condition failed: waiting for title to contain &quot;Google Search&quot;. Current title: &quot;firefly - Buscar con Google&quot; (tried for 5 second(s) with 500 milliseconds interval)&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'ASUS-X556UB', ip: '192.168.137.121', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_251'&#10;Driver info: net.thucydides.core.webdriver.WebDriverFacade" type="org.openqa.selenium.TimeoutException">Expected condition failed: waiting for title to contain "Google Search". Current title: "firefly - Buscar con Google" (tried for 5 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ASUS-X556UB', ip: '192.168.137.121', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_251'
+Driver info: net.thucydides.core.webdriver.WebDriverFacade</error><system-err>Expected condition failed: waiting for title to contain "Google Search". Current title: "firefly - Buscar con Google" (tried for 5 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ASUS-X556UB', ip: '192.168.137.121', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_251'
+Driver info: net.thucydides.core.webdriver.WebDriverFacade&#13;
+com.arbusta.Unidad3.Test.TestBrowsing2.shouldInstantiateAWebDriverInstanceForAWebTest(TestBrowsing2.java:70)&#13;
+org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:89)&#13;
+org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:41)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:541)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:763)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:463)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:209)&#13;
+</system-err></testcase></testsuite>
